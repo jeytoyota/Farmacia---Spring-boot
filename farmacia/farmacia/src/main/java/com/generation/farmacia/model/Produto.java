@@ -73,6 +73,14 @@ public class Produto {
 	public void setPeso(double peso) {
 		this.peso = peso;
 	}
+
+	public Categoria getCategoria() {
+		return categoria;
+	}
+
+	public void setCategoria(Categoria categoria) {
+		this.categoria = categoria;
+	}
 	
 	
 
